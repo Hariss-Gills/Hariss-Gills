@@ -7,7 +7,7 @@
 
 - 🥅 2020 Goals: **Contribute more to Open Source projects**
 
-- 📄 CV [https://drive.google.com/file/d/1iaZ5RZ5vU9crxgZguIepIMGkRB4Q4jqq/view?usp=sharing](https://drive.google.com/file/d/1iaZ5RZ5vU9crxgZguIepIMGkRB4Q4jqq/view?usp=sharing)
+- 📄 [CV](https://drive.google.com/file/d/1iaZ5RZ5vU9crxgZguIepIMGkRB4Q4jqq/view?usp=sharing)
 
 - ⚡ Fun fact: **I love to 🛹 skate and 🏋️ lift**
 
