@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hariss</h1>
 <h3 align="center">I'm a CS student at the University of Aberdeen</h3>
 
-- 🔭 I’m currently working on [**a platformer**](https://github.com/Hariss-Gills/Witcher-Platformer)
+- 🔭 I’m currently working on a group project
 
-- 🌱 I’m currently learning **Front-end Web development**
+- 🌱 I’m currently learning **AI**
 
-- 🥅 2020 Goals: **Contribute more to Open Source projects**
-
-- 📄 [CV](https://drive.google.com/file/d/1iaZ5RZ5vU9crxgZguIepIMGkRB4Q4jqq/view?usp=sharing)
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact: **I love to 🛹 skate and 🏋️ lift**
 
