@@ -18,7 +18,7 @@ jobs:
         uses: aryan02420/wreadle@v0.1
         id: wreadle
         with:
-          readme: ./wreadle.md
+          readme: ./README.md
       - name: commit
         run: |
           git config --local user.name 'github-actions[bot]'
