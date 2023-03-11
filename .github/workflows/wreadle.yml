@@ -23,7 +23,7 @@ jobs:
         with:
           readme: ./README.md
           tag: wreadle
-          serverUrl: https://www.atroom.at
+          serverUrl: https://www.atroom.at/dispatch
 
       - name: commit
         run: |
