@@ -1,3 +1,5 @@
+<!--START_SECTION:wreadle-->
+<!--END_SECTION:wreadle-->
 <h1 align="center">Hi 👋, I'm Hariss</h1>
 <h3 align="center">I'm a CS student at the University of Aberdeen</h3>
 
@@ -21,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariss-gills&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hariss-gills" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariss-gills&theme=dark" alt="hariss-gills" /></p>
-
