@@ -23,7 +23,7 @@ jobs:
         with:
           readme: ./README.md
           tag: wreadle
-          serverUrl: wordle-readme.deno.dev
+          serverUrl: https://wordle-readme.deno.dev
 
       - name: commit
         run: |
