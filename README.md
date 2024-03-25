@@ -1,4 +1,4 @@
-<!--START_SECTION:wreadle--><!--VAR:wreadle state=6g1em4b0300042080451139o9qcan8-->
+<!--START_SECTION:wreadle--><!--VAR:wreadle state=6k1em4b0300042080451139o9qcan8-->
 
 <h2 align="center"><img height="32px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/timer.svg" alt="timer" /> WORDLE</h2>
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align="center"></p>
+<p align="center">word not valid</p>
 
 <p align="center"><a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/q"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/q1.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/w"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/w0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/e"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/e3.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/r"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/r0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/t"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/t0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/y"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/y0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/u"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/u1.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/i"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/i0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/o"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/o0.png" /></a> &nbsp;<a href="https://wordle-readme.deno.dev/Hariss-Gills/Hariss-Gills/wordle/p"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/p0.png" /></a> &nbsp;</p>
 
